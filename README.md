@@ -1,1 +1,1 @@
-# Estudos-algor-tmos
+# Todas as minhas pastas de estudos.
