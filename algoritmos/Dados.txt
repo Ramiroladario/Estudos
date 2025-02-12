@@ -1,0 +1,3 @@
+Nome: Ramiro
+Idade: 35
+Cidade: Brasíla
